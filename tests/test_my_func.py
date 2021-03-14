@@ -14,3 +14,7 @@ def test__my_sub():
 
 def test__my_mul():
     assert my_func.my_mul(2.0, 1.3) == 2.6
+
+
+def test__my_div():
+    assert my_func.my_div(1.3, 2.0) == pytest.approx(0.65)
