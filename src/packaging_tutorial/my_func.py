@@ -55,3 +55,22 @@ def my_mul(x1: float, x2: float) -> float:
 
     y = x1 * x2
     return y
+
+
+def my_div(x1: float, x2: float) -> float:
+    """ 割算を行う (x1 / x2)
+
+    Argumentns:
+        :x1: float
+            数値1
+
+        :x2: float
+            数値2
+
+    Returns:
+        :y: float
+            x1 / x2
+    """
+
+    y = x1 / x2
+    return y

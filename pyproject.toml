@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "packaging_tutorial"
-version = "0.1.0"
+version = "0.2.0"
 description = ""
 authors = ["s1830134 <s1830134@s.tsukuba.ac.jp>"]
 
